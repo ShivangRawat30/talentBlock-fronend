@@ -1,0 +1,100 @@
+{
+    "name": "Shivang Rawat",
+    "description": "Experienced full-stack developer specializing in Web2 and Web3 Technologies",
+    "image": "https://brown-acute-xerinae-416.mypinata.cloud/ipfs/QmbPRPhpmQKsuJnqFDESRVrYenndiWh3hLtzkZ4zzrRRgh",  // Link to the freelancer’s profile picture
+    "attributes": [
+      {
+        "trait_type": "Title",
+        "value": "FullStack/Blockchain Developer"
+      },
+      {
+        "trait_type": "Skills",
+        "value": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Python",
+          "SQL",
+          "Solidity",
+          "Rust"
+        ]
+      },
+      {
+        "trait_type": "Years of Experience",
+        "value": 5
+      },
+      {
+        "trait_type": "Hourly Rate",
+        "value": "$50"
+      },
+      {
+        "trait_type": "Projects Completed",
+        "value": 45
+      },
+      {
+        "trait_type": "Portfolio",
+        "value": [
+          {
+            "project_name": "E-commerce Website",
+            "description": "Built an e-commerce platform with React and Node.js",
+            "link": "https://example.com/project1"
+          },
+          {
+            "project_name": "Social Media App",
+            "description": "Developed a social media app with live chat and feed features",
+            "link": "https://example.com/project2"
+          }
+        ]
+      },
+      {
+        "trait_type": "Ratings",
+        "value": [
+          {
+            "source": "Client A",
+            "rating": 4.8,
+            "review": "Excellent work, very satisfied with the final product!"
+          },
+          {
+            "source": "Client B",
+            "rating": 4.9,
+            "review": "Great attention to detail and professional communication."
+          }
+        ]
+      },
+      {
+        "trait_type": "Certifications",
+        "value": [
+          {
+            "title": "AWS Certified Solutions Architect",
+            "institution": "Amazon Web Services",
+            "year": 2022
+          },
+          {
+            "title": "Certified Kubernetes Administrator",
+            "institution": "Linux Foundation",
+            "year": 2021
+          }
+        ]
+      },
+      {
+        "trait_type": "Languages",
+        "value": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "trait_type": "Location",
+        "value": "New Delhi, India"
+      },
+      {
+        "trait_type": "LinkedIn",
+        "value": "https://www.linkedin.com/in/shivangrawat30/"
+      },
+      {
+        "trait_type": "GitHub",
+        "value": "https://github.com/ShivangRawat30"
+      }
+    ]
+  }
+  
